@@ -22,6 +22,7 @@ body {
 }
 
 .content h1 {
+    color: rgb(255, 123, 0);
     font-size: 70px;
     margin-top: 80px;
 }
